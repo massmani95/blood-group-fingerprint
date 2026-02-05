@@ -3,5 +3,5 @@ flask_sqlalchemy
 tensorflow==2.10.0
 numpy==1.23.5
 pillow
-scipy==1.10.1
+scipy==1.13.1
 gunicorn
